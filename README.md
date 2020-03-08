@@ -2,6 +2,12 @@
 
 Faça um Fork desse repositório,resolva os exercicios (Cada um em um arquivo separado). Depois faça um Pull Request para esse repositório.
 
+### Arquivos de Exercício
+
+Arquivos e exercícios relacionados a esta lista de exercícios estão na pasta ```lista_exercicios```
+Arquivos e exercícios relacionados a orientação a objetos estão na pasta ```orientacao_objetos```
+Arquivos e exercícios relacionados a funções estão na pasta ```functions```
+
 
 # Exercicios Introdução ao Kotlin
 
